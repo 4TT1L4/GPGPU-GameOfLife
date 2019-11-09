@@ -1,4 +1,5 @@
-# General Purpose GPU Proframming - Conway's Game of Life
+# General Purpose GPU Proframming
+# Conway's Game of Life
 [OpenGL Shading Language](https://en.wikipedia.org/wiki/OpenGL_Shading_Language) implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) as demonstartion of general purpose GPU programming, enabling massively paralel computation of the steps of the simulation on any compatible graphic card.
 
 # Preview
